@@ -3,7 +3,7 @@
 **Internal MVP** designed for TDC matchmakers to efficiently manage customer profiles, review comprehensive biodata, rank suggested matches, capture custom notes, and preview personalized outreach.
 
 * **Live App:** [tdc-mvp.vercel.app](https://tdc-mvp.vercel.app/)
-* **GitHub Repository:** [github.com/uttam282005/tdc-mvp](https://github.com/uttam282005/tdc-mvp.git)
+* **GitHub Repository:** [github.com/mohittiw07/tdc-matchmaker](https://github.com/mohittiw07/tdc-matchmaker.git)
 
 ### 🔑 Sample Login Credentials
 
